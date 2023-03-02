@@ -183,6 +183,8 @@ To run tests, run the following command:
 
 - [ ] **Add Remove and Add buttons**
 - [ ] **Interactive list**
+- [ ] **Add clear button**
+
 
 
 
